@@ -12,4 +12,4 @@
 
 ## OTHER CONSIDERATIONS:
 
-[Any other considerations or specific requirements - great place to include gotchas that you see AI coding assistants miss with your projects a lot]
+[Any other considerations or specific requirements - great place to include gotchas that you see AI coding assistants miss with your projects a lot] 
